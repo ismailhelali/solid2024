@@ -130,7 +130,7 @@ body {
 }
 
 .hero-content {
-    position: relative;
+    position: center;
     z-index: 2;
     max-width: 800px;
 }
